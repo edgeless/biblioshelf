@@ -1,0 +1,3 @@
+require "./biblioshelf"
+
+run BiblioShelf
